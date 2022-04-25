@@ -316,6 +316,7 @@ export default {
           "nfdy.top":"https://nfdy.top/short",
         },
         customBackend: {
+          "星自建官方":"https://suc.zeropk.tk/sub?",
           "肥羊增强型后端【vless+负载均衡】":"https://api.v1.mk/sub?",
           "品云提供后端【实验性】":"https://v.id9.cc/sub?",
           "nameless13提供":"https://www.nameless13.com/sub?",
@@ -324,7 +325,8 @@ export default {
           "sub作者&lhie1提供": "https://api.dler.io/sub?",
         },
         backendOptions: [
-          { value: "https://api.v1.mk/sub?" },
+          { value: "https://suc.zeropk.tk/sub?" },
+	  { value: "https://api.v1.mk/sub?" },
           { value: "https://v.id9.cc/sub?" },
           { value: "https://www.nameless13.com/sub?" },
           { value: "https://sub.xeton.dev/sub?" },
